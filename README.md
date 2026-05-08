@@ -133,11 +133,8 @@ ethical-hacking-workshop/
 │
 ├── README.md
 ├── presentations/
-├── practicals/
 ├── commands/
-├── screenshots/
-├── notes/
-└── resources/
+
 ```
 
 ---
@@ -251,7 +248,3 @@ This repository is created strictly for educational purposes.
 All demonstrations, commands, and tools shown in this repository were used in controlled lab environments with proper authorization. Unauthorized access to systems or networks is illegal and unethical.
 
 ---
-
-# Acknowledgement
-
-Special thanks to the faculty members, organizers, and participants who contributed to the successful completion of this workshop and encouraged practical cybersecurity learning.
