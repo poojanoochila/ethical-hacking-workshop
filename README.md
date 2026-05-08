@@ -215,7 +215,29 @@ This workshop helps build foundational skills relevant for:
 
 ---
 
-# Author
+# Workshop Impact
+
+* Conducted for 50+ students from the college
+* Included hands-on practical demonstrations and guided lab sessions
+* Organized on behalf of the Techfinity Tech Club
+* Focused on beginner-friendly cybersecurity and ethical hacking concepts
+* Encouraged practical learning through real tool demonstrations and security workflows
+
+---
+
+# Leadership & Contribution
+
+This workshop was conducted as part of activities organized by the Techfinity Tech Club.
+
+Role:
+
+* Secretary, Techfinity Tech Club
+* Workshop Presenter and Practical Session Instructor
+* Guided students through cybersecurity fundamentals and hands-on demonstrations
+
+---
+
+#
 
 **Pooja N**
 MCA Student | Cybersecurity Enthusiast | SOC Analyst Aspirant
